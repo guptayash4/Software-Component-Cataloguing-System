@@ -10,4 +10,4 @@ An Application that stores description of various software components. Has a Log
 7.Query Component
 8.User list
 
-Application is based on FILE I/O operations in C++;
+Application is based on FILE I/O operations and OOP concepts in C++;
